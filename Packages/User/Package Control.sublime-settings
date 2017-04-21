@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Exclude Paths",
+		"GitGutter",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"PackageResourceViewer",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"tern_for_sublime",
+		"Theme - Flatland",
+		"Twig",
+		"Vuejs Complete Package"
+	]
+}

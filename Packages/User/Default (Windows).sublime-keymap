@@ -1,0 +1,4 @@
+[
+  { "keys": ["f10"], "command": "reindent"},
+  { "keys": ["ctrl+alt+shift+s"], "command": "save_all" }
+]
