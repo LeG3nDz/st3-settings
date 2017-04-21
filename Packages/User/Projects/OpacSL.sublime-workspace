@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open proj",
+				"Project Manager: Open Project"
+			],
+			[
+				"add proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open p",
+				"Project Manager: Open Project"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"open pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"editor",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"editorc",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"open projet",
+				"Project Manager: Open Project"
+			],
+			[
+				"project add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project add",
+				"Project: Add Folder"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Environment"
+			],
+			[
+				"editorConfig",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/public/opacsl",
+		"/Z/public/opacsl/app",
+		"/Z/public/opacsl/app/Resources",
+		"/Z/public/opacsl/app/Resources/assets/sass",
+		"/Z/public/opacsl/app/Resources/assets/sass/layouts",
+		"/Z/public/opacsl/app/Resources/assets/sass/pages",
+		"/Z/public/opacsl/app/Resources/views",
+		"/Z/public/opacsl/app/Resources/views/front"
+	],
+	"file_history":
+	[
+		"/Z/public/opacsl/app/Resources/views/front/components/item-card.html.twig",
+		"/Z/public/opacsl/app/Resources/views/front/annonce/equipments.html.twig",
+		"/Z/public/opacsl/app/Resources/views/front/annonce/index.html.twig",
+		"/Z/public/opacsl/app/Resources/views/back/slide/homepage-banner/index.html.twig",
+		"/Z/public/opacsl/app/Resources/views/back/slide/homepage-footer/index.html.twig",
+		"/Z/public/opacsl/app/Resources/views/front/partials/header.html.twig",
+		"/Z/public/opacsl/app/Resources/assets/sass/layouts/_home.scss",
+		"/Z/public/opacsl/app/Resources/assets/sass/pages/_search-detail.scss",
+		"/Z/public/opacsl/app/Resources/assets/js/main.js",
+		"/Z/public/opacsl/app/Resources/assets/sass/pages/_agence-detail.scss",
+		"/Z/public/opacsl/app/config/parameters.yml.dist",
+		"/Z/public/opacsl/app/config/parameters.yml",
+		"/D/Sites/place2swap/app/Resources/views/Item/includes/itemList.html.twig",
+		"/D/Sites/place2swap/app/config/docker/symfony.conf",
+		"/D/Sites/place2swap/app/config/docker/nginx.conf",
+		"/Z/public/opacsl/app/Resources/views/front/default/index.html.twig",
+		"/Z/public/opacsl/app/Resources/assets/css/main.css",
+		"/Z/public/opacsl/app/Resources/assets/sass/layouts/_page.scss",
+		"/Z/public/opacsl/app/Resources/assets/css/ckeditor.css",
+		"/Z/public/opacsl/app/Resources/assets/sass/components/_item-card.scss",
+		"/Z/public/opacsl/app/autoload.php",
+		"/Z/public/opacsl/app/.htaccess",
+		"/Z/public/opacsl/app/Resources/assets/sass/layouts/_user.scss",
+		"/Z/public/opacsl/app/Resources/views/front/user/pages/actualites.html.twig",
+		"/Z/public/opacsl/app/Resources/assets/sass/base/_variables.scss",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/sassSolution/sassSolution.sublime-settings",
+		"/Z/public/opacsl/app/Resources/assets/sass/_styles.scss",
+		"/D/Sites/bitnami-docker-wordpress/docker-compose.yml",
+		"/D/Sites/bitnami-docker-wordpress/4/rootfs/app-entrypoint.sh",
+		"/D/Sites/bitnami-docker-wordpress/wordpress_data/wp-config.php",
+		"/D/Sites/bitnami-docker-wordpress/4/docker-compose.yml",
+		"/D/Sites/docker-gitlab/docker-compose.yml",
+		"/D/Sites/bitnami-docker-wordpress/circle.yml",
+		"/Z/public/opacsl/app/Resources/assets/sass/pages/_article-detail.scss",
+		"/Z/public/opacsl/app/Resources/assets/sass/base/_icons.scss",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/Sites/regional-partners/web/theme/regional/partials/forms/_contact_tax_services.twig",
+		"/D/Sites/regional-partners/web/theme/regional/partials/forms/_contact_business_ecosystem.twig",
+		"/D/Sites/regional-partners/.editorconfig",
+		"/D/Sites/regional-partners/web/theme/regional/sass/base/_form.scss",
+		"/D/Sites/regional-partners/web/theme/regional/js/components/base.js",
+		"/D/Sites/regional-partners/web/theme/regional/js/components/bootstrap.js",
+		"/D/Sites/regional-partners/web/theme/regional/partials/_master.twig",
+		"/D/Sites/regional-partners/web/theme/regional/partials/forms/_real_estate_opportunities.twig",
+		"/D/Sites/regional-partners/web/theme/regional/contact.twig",
+		"/D/Sites/regional-partners/web/theme/regional/partials/forms/_contact_real_estate_solutions.twig",
+		"/D/Sites/regional-partners/web/theme/regional/sass/parts/_map.scss",
+		"/D/Sites/regional-partners/web/theme/regional/immovables.twig",
+		"/D/Sites/regional-partners/web/theme/base-2016/search.twig",
+		"/D/Sites/regional-partners/.gitlab-ci.yml",
+		"/D/Sites/lfdwveille/.editorconfig",
+		"/D/Sites/regional-partners/web/theme/regional/css/main.css",
+		"/D/Sites/regional-partners/composer.json",
+		"/D/Sites/regional-partners/deploy.php",
+		"/D/Sites/regional-partners/.gitignore",
+		"/D/Sites/regional-partners/docker-compose.yml",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Installed Packages/Boxy Theme.sublime-package",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/D/Sites/regional-partners/web/theme/regional/sass/parts/core/_header.scss",
+		"/D/Sites/regional-partners/web/theme/regional/sass/base/_variables.scss",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/D/Sites/regional-partners/web/theme/regional/sass/main.scss",
+		"/D/Sites/regional-partners/web/theme/base-2016/partials/_master.twig",
+		"/D/Sites/dcns/app/index.html",
+		"/D/Sites/regional-partners/web/theme/regional/homepage.twig",
+		"/D/Sites/regional-partners/web/theme/regional/immovable.twig",
+		"/D/Sites/regional-partners/web/theme/regional/notfound.twig",
+		"/D/Sites/regional-partners/web/theme/regional/js/main.js",
+		"/D/Sites/regional-partners/web/theme/regional/CHANGELOG.md",
+		"/D/Sites/regional-partners/web/theme/regional/area.twig",
+		"/D/Sites/regional-partners/web/theme/regional/areas.twig",
+		"/D/Sites/regional-partners/web/theme/regional/region.twig",
+		"/D/Sites/regional-partners/web/theme/regional/page.twig",
+		"/D/Sites/regional-partners/web/theme/regional/npm-shrinkwrap.json",
+		"/D/Sites/regional-partners/web/theme/regional/listing.twig"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"Z:\\public\\opacsl\\app\\Resources",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"block-slide col-xs-12 col-sm-6 col-lg-7 overflow-hidden",
+			"table",
+			"libre",
+			"libre le",
+			"class=\"price-ht\"",
+			"charges</span>",
+			"<span class=\"charges\">\n                          + 1,80 € charges\n                                                </span>",
+			"<span class=\"charges\">\n                    hors charges\n                </span>",
+			".slider-detail",
+			"for",
+			"only",
+			"#slider-for",
+			"sr-only",
+			"slick-hidden",
+			"tabs",
+			".home-packs",
+			";home-packs",
+			"navbar-toggle",
+			"js-navbar-collapse",
+			".content",
+			"opacity: 1",
+			"item-header",
+			"edeal_log",
+			"app.listener.edeal_log",
+			"1rem",
+			":after",
+			"::after",
+			"last",
+			"{%",
+			"addBootstrapMultiselect",
+			"function ",
+			"product-adress-print",
+			"@media print",
+			"print",
+			"télé",
+			"product-adress-print",
+			"background-color: black !important;",
+			"background-color",
+			"icon-search_ascenseur",
+			"preferences",
+			"sass",
+			"x",
+			"blue",
+			"[ col-xs-12 col-sm-6 col-md-4 ]",
+			">\n",
+			"flex",
+			"contactNavigation",
+			"textarea",
+			"texarea",
+			"btn",
+			".btn-show-map",
+			"btn",
+			"em",
+			">\n",
+			"button",
+			"HEAD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OpacSL.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"homeindex",
+				"app\\Resources\\views\\back\\slide\\homepage-footer\\index.html.twig"
+			],
+			[
+				"homeindex.html.twig",
+				"app\\Resources\\views\\back\\slide\\homepage-banner\\index.html.twig"
+			],
+			[
+				"equipments.html.twig",
+				"app\\Resources\\views\\front\\annonce\\equipments.html.twig"
+			],
+			[
+				"header",
+				"app\\Resources\\views\\front\\partials\\header.html.twig"
+			],
+			[
+				"_home",
+				"app\\Resources\\assets\\sass\\layouts\\_home.scss"
+			],
+			[
+				"main.js",
+				"app\\Resources\\assets\\js\\main.js"
+			],
+			[
+				"param",
+				"app\\config\\parameters.yml.dist"
+			],
+			[
+				"user.scss",
+				"app\\Resources\\assets\\sass\\layouts\\_user.scss"
+			],
+			[
+				"_detail",
+				"app\\Resources\\assets\\sass\\pages\\_search-detail.scss"
+			],
+			[
+				"_variable",
+				"app\\Resources\\assets\\sass\\base\\_variables.scss"
+			],
+			[
+				"_varia",
+				"app\\Resources\\assets\\sass\\base\\_variables.scss"
+			],
+			[
+				"_icon",
+				"app\\Resources\\assets\\sass\\base\\_icons.scss"
+			],
+			[
+				"_form",
+				"web\\theme\\regional\\sass\\base\\_form.scss"
+			],
+			[
+				"boo",
+				"web\\theme\\regional\\js\\components\\bootstrap.js"
+			],
+			[
+				"master",
+				"web\\theme\\regional\\partials\\_master.twig"
+			],
+			[
+				"base",
+				"web\\theme\\regional\\js\\components\\base.js"
+			],
+			[
+				"editor",
+				".editorconfig"
+			],
+			[
+				"_map",
+				"web\\theme\\regional\\sass\\parts\\_map.scss"
+			],
+			[
+				"contact",
+				"web\\theme\\regional\\contact.twig"
+			],
+			[
+				"immo",
+				"web\\theme\\regional\\immovables.twig"
+			],
+			[
+				"basetwig",
+				"web\\theme\\base-2016\\search.twig"
+			],
+			[
+				"main",
+				"web\\theme\\regional\\css\\main.css"
+			],
+			[
+				"main.",
+				"web\\theme\\regional\\css\\main.css"
+			],
+			[
+				"_header",
+				"web\\theme\\regional\\sass\\parts\\core\\_header.scss"
+			],
+			[
+				"_va",
+				"web\\theme\\regional\\sass\\base\\_variables.scss"
+			],
+			[
+				"_headers",
+				"web\\theme\\regional\\sass\\parts\\core\\_header.scss"
+			],
+			[
+				"main.scss",
+				"web\\theme\\regional\\sass\\main.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"small",
+				"smallVideo"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"item",
+				"itemActive"
+			],
+			[
+				"active",
+				"activeClass"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"switch",
+				"switch()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Z/public/selectour/web/includes/navigation.php",
+			"settings":
+			{
+				"buffer_size": 3614,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "open",
+		"selected_items":
+		[
+			[
+				"open",
+				"Project Manager: Open Project"
+			],
+			[
+				"home",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"index",
+				"Indexing Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open proje",
+				"Project Manager: Open Project"
+			],
+			[
+				"add project",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open projet",
+				"Project Manager: Open Project"
+			],
+			[
+				"project add pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project add",
+				"Project: Add Folder"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pvr",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Environment"
+			],
+			[
+				"editorConfig",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/public/selectour",
+		"/Z/public/selectour/web",
+		"/Z/public/selectour/web/includes",
+		"/Z/public/selectour/web/private",
+		"/Z/public/selectour/web/private/js/components",
+		"/Z/public/selectour/web/private/scss"
+	],
+	"file_history":
+	[
+		"/Z/public/selectour/web/bleu-voyages.php",
+		"/Z/public/selectour/web/home.php",
+		"/Z/public/selectour/web/profiler.php",
+		"/Z/public/selectour/web/private/scss/layout/_results.scss",
+		"/Z/public/selectour/web/private/scss/layout/_last-step-profiler.scss",
+		"/Z/public/selectour/web/private/scss/components/_services.scss",
+		"/Z/public/selectour/web/private/scss/grid/_flex-grid.scss",
+		"/D/Sites/lfdwveille/docker-compose.yml",
+		"/Z/public/selectour/web/presse-detail.php",
+		"/Z/public/selectour/web/presse.php",
+		"/Z/public/selectour/web/last-step-profiler.php",
+		"/Z/public/selectour/web/includes/header.php",
+		"/Z/public/selectour/web/includes/footer.php",
+		"/Z/public/selectour/web/we-know.php",
+		"/Z/public/selectour/web/flash.php",
+		"/Z/public/selectour/web/private/scss/components/_share.scss",
+		"/Z/public/selectour/web/private/scss/layout/_actuality.scss",
+		"/Z/public/selectour/web/private/scss/layout/_flash.scss",
+		"/Z/public/selectour/web/recruitment-detail.php",
+		"/Z/public/selectour/web/actuality.php",
+		"/Z/public/selectour/web/wysiwyg.php",
+		"/Z/public/selectour/web/includes/share.php",
+		"/Z/public/selectour/web/our-services.php",
+		"/Z/public/selectour/web/private/scss/app.scss",
+		"/Z/public/selectour/web/private/scss/components/_article.scss",
+		"/Z/public/selectour/web/private/scss/layout/_actualities.scss",
+		"/Z/public/selectour/web/private/scss/components/_breadcrumbs.scss",
+		"/Z/public/selectour/web/actualities.php",
+		"/Z/public/selectour/web/private/scss/_global.scss",
+		"/Z/public/selectour/web/private/scss/layout/_content.scss",
+		"/Z/public/selectour/web/private/scss/components/_sidebar.scss",
+		"/Z/public/selectour/web/private/js/components/custom.js",
+		"/Z/public/selectour/web/private/js/app.js",
+		"/D/Sites/dcns/private/js/app.js",
+		"/D/Sites/dcns/private/js/components/session.js",
+		"/D/Sites/dcns/private/js/components/navigation.js",
+		"/D/Sites/dcns/app/smx.html",
+		"/D/Sites/dcns/app/belharra.html",
+		"/D/Sites/dcns/app/public/assets/bundle.css",
+		"/D/Sites/dcns/private/js/components/video.js",
+		"/D/Sites/dcns/app/public/manifest.json",
+		"/D/Sites/dcns/app/index.html",
+		"/D/Sites/dcns/.gitignore",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/Sites/dcns/private/scss/components/_modal.scss",
+		"/D/Sites/dcns/.tern-project",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/D/Sites/dcns/private/scss/app.scss",
+		"/D/Sites/dcns/.editorconfig",
+		"/D/Sites/dcns/private/scss/_global.scss",
+		"/D/Sites/dcns/README.md",
+		"/D/Sites/dcns/package.json",
+		"/D/Sites/dcns/private/scss/components/_submenu.scss",
+		"/D/Sites/dcns/private/scss/components/_product.scss",
+		"/D/Sites/dcns/private/scss/layout/_main.scss",
+		"/D/Sites/dcns/private/scss/components/_video.scss",
+		"/D/Sites/dcns/private/scss/layout/_header.scss",
+		"/D/Sites/dcns/private/scss/layout/_aside.scss",
+		"/D/Sites/dcns/private/js/components/switch.js",
+		"/D/Sites/dcns/private/scss/components/_button.scss",
+		"/D/Sites/dcns/private/scss/layout/_footer.scss",
+		"/D/Sites/dcns/private/scss/layout/_navigation.scss",
+		"/D/Téléchargements/tab.svg",
+		"/D/Téléchargements/lock.svg",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/D/Sites/regional-partners/composer.json",
+		"/D/Sites/regional-partners/deploy.php",
+		"/D/Sites/regional-partners/.gitignore",
+		"/D/Sites/regional-partners/docker-compose.yml",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/ProjectManager/project_manager.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Installed Packages/Boxy Theme.sublime-package",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/D/Sites/regional-partners/web/theme/regional/sass/parts/core/_header.scss",
+		"/D/Sites/regional-partners/web/theme/regional/js/components/base.js",
+		"/D/Sites/regional-partners/web/theme/regional/sass/base/_variables.scss",
+		"/C/Users/Stephane/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/D/Sites/regional-partners/web/theme/regional/sass/main.scss",
+		"/D/Sites/regional-partners/web/theme/base-2016/partials/_master.twig",
+		"/D/Sites/regional-partners/web/theme/regional/js/components/bootstrap.js",
+		"/D/Sites/regional-partners/web/theme/regional/homepage.twig",
+		"/D/Sites/regional-partners/web/theme/regional/immovable.twig",
+		"/D/Sites/regional-partners/web/theme/regional/immovables.twig",
+		"/D/Sites/regional-partners/web/theme/regional/notfound.twig",
+		"/D/Sites/regional-partners/web/theme/regional/contact.twig",
+		"/D/Sites/regional-partners/web/theme/regional/js/main.js",
+		"/D/Sites/regional-partners/web/theme/regional/CHANGELOG.md",
+		"/D/Sites/regional-partners/web/theme/regional/area.twig",
+		"/D/Sites/regional-partners/web/theme/regional/areas.twig",
+		"/D/Sites/regional-partners/web/theme/regional/region.twig",
+		"/D/Sites/regional-partners/web/theme/regional/page.twig",
+		"/D/Sites/regional-partners/web/theme/regional/npm-shrinkwrap.json",
+		"/D/Sites/regional-partners/web/theme/regional/listing.twig"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"découvrez nos",
+			"block",
+			"<a href=\"\" class=\"read-more\">En savoir plus</a>",
+			"column",
+			"<a href=\"\">",
+			"Découvrez comment Bleu Voyages vous accompagne",
+			"découvrez no",
+			"découvrez",
+			"actuality.php",
+			"title-primary",
+			"title",
+			"share",
+			"publié",
+			"div",
+			"30px",
+			"content",
+			"is-stuck",
+			".sidebar",
+			"sidebar",
+			"padding-top",
+			".title {",
+			"_title {",
+			"fonts",
+			"/public/assets/",
+			"favicons/",
+			"medium/",
+			"small/",
+			"medium/",
+			"small/",
+			"/public/assets/",
+			"CIC",
+			"cic",
+			"02",
+			"03",
+			"05",
+			"30",
+			"04",
+			"safe",
+			"system",
+			"01",
+			"30",
+			"DCNS_SMX_EURONAV16_ET",
+			"DCNS_SMX_EURONAV16_ME",
+			"DCNS_SMX_EURONAV16_ET",
+			"01",
+			"accomodations",
+			"accomo",
+			"40",
+			"Operations",
+			"operations",
+			"40",
+			"02",
+			"energy",
+			"10",
+			"setAttribute",
+			"''",
+			"const",
+			"/public/assets/",
+			"second",
+			"secondSubmenuActive",
+			"firstSubmenuActive",
+			"{\n",
+			"dass",
+			"system",
+			"50",
+			"15",
+			"768",
+			"20",
+			"512",
+			"000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Z/public/selectour/web/includes/navigation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										891,
+										894
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										681,
+										684
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"git_gutter_enabled": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Bleu Voyages.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"navigation",
+				"web\\includes\\navigation.php"
+			],
+			[
+				"bleu",
+				"web\\private\\scss\\layout\\_results.scss"
+			],
+			[
+				"profi",
+				"web\\profiler.php"
+			],
+			[
+				"home",
+				"web\\home.php"
+			],
+			[
+				"prof",
+				"web\\profiler.php"
+			],
+			[
+				"_flex",
+				"web\\private\\scss\\grid\\_flex-grid.scss"
+			],
+			[
+				"_last",
+				"web\\private\\scss\\layout\\_last-step-profiler.scss"
+			],
+			[
+				"_service",
+				"web\\private\\scss\\components\\_services.scss"
+			],
+			[
+				"header",
+				"web\\includes\\header.php"
+			],
+			[
+				"last",
+				"web\\last-step-profiler.php"
+			],
+			[
+				"presse-de",
+				"Z:\\public\\selectour\\web\\presse-detail.php"
+			],
+			[
+				"footer",
+				"web\\includes\\footer.php"
+			],
+			[
+				"we-k",
+				"web\\we-know.php"
+			],
+			[
+				"wek",
+				"web\\we-know.php"
+			],
+			[
+				"our",
+				"web\\our-services.php"
+			],
+			[
+				"wysi",
+				"web\\wysiwyg.php"
+			],
+			[
+				"_actualit",
+				"web\\private\\scss\\layout\\_actuality.scss"
+			],
+			[
+				"actualit",
+				"web\\actuality.php"
+			],
+			[
+				"recruteme",
+				"web\\recruitment-detail.php"
+			],
+			[
+				"_flash",
+				"web\\private\\scss\\layout\\_flash.scss"
+			],
+			[
+				"flash",
+				"web\\flash.php"
+			],
+			[
+				"_article",
+				"web\\private\\scss\\components\\_article.scss"
+			],
+			[
+				"_actuali",
+				"web\\private\\scss\\layout\\_actuality.scss"
+			],
+			[
+				"_content",
+				"web\\private\\scss\\layout\\_content.scss"
+			],
+			[
+				"custom",
+				"web\\private\\js\\components\\custom.js"
+			],
+			[
+				"_global",
+				"web\\private\\scss\\_global.scss"
+			],
+			[
+				"actuali",
+				"web\\actualities.php"
+			],
+			[
+				"_bread",
+				"web\\private\\scss\\components\\_breadcrumbs.scss"
+			],
+			[
+				"app.js",
+				"web\\private\\js\\app.js"
+			],
+			[
+				"wysw",
+				"web\\wysiwyg.php"
+			],
+			[
+				"smx",
+				"app\\smx.html"
+			],
+			[
+				"app.",
+				"private\\js\\app.js"
+			],
+			[
+				"sess",
+				"private\\js\\components\\session.js"
+			],
+			[
+				"naviga",
+				"private\\js\\components\\navigation.js"
+			],
+			[
+				"video",
+				"private\\js\\components\\video.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"app",
+				"private\\js\\app.js"
+			],
+			[
+				"_",
+				"private\\scss\\components\\_modal.scss"
+			],
+			[
+				"appjs",
+				"private\\js\\app.js"
+			],
+			[
+				"_sub",
+				"private\\scss\\components\\_submenu.scss"
+			],
+			[
+				"app.s",
+				"private\\scss\\app.scss"
+			],
+			[
+				"_produ",
+				"private\\scss\\components\\_product.scss"
+			],
+			[
+				"_main",
+				"private\\scss\\layout\\_main.scss"
+			],
+			[
+				"_videos",
+				"private\\scss\\components\\_video.scss"
+			],
+			[
+				"_modal",
+				"private\\scss\\components\\_modal.scss"
+			],
+			[
+				"_header",
+				"private\\scss\\layout\\_header.scss"
+			],
+			[
+				"_aside",
+				"private\\scss\\layout\\_aside.scss"
+			],
+			[
+				"_naviga",
+				"private\\scss\\layout\\_navigation.scss"
+			],
+			[
+				"idnex",
+				"app\\index.html"
+			],
+			[
+				"_va",
+				"web\\theme\\regional\\sass\\base\\_variables.scss"
+			],
+			[
+				"master",
+				"web\\theme\\base-2016\\partials\\_master.twig"
+			],
+			[
+				"_headers",
+				"web\\theme\\regional\\sass\\parts\\core\\_header.scss"
+			],
+			[
+				"main.scss",
+				"web\\theme\\regional\\sass\\main.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

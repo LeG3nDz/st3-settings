@@ -15,3 +15,9 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+
+# Garder les snipperts et les projets
+!Packages/User/Snippets
+!Packages/User/Snippets/*
+!Packages/User/Projects
+!Packages/User/Projects/*
