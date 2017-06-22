@@ -19,5 +19,3 @@ Packages/User/*
 # Garder les snipperts et les projets
 !Packages/User/Snippets
 !Packages/User/Snippets/*
-!Packages/User/Projects
-!Packages/User/Projects/*

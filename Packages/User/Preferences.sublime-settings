@@ -3,7 +3,7 @@
 	"bold_folder_labels": false,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
@@ -18,8 +18,8 @@
 		"node_modules",
 		"bower-components"
 	],
-	"font_face": "Consolas",
-	"font_size": 11.5,
+	"font_face": "Ubuntu Mono",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
